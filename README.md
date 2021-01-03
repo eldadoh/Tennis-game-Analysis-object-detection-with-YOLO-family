@@ -14,3 +14,7 @@ Training process included 6600 training images (84.6%) and 1200 test images (15.
 that resulted in a network with mAP @.5 = 0.725 on the test set.
 
 ![Output sample](https://github.com/eldadoh/Tennis-game-Analysis-object-detection-with-YOLO-family/blob/main/assets/gif.gif)
+
+![Output sample](https://github.com/eldadoh/Tennis-game-Analysis-object-detection-with-YOLO-family/blob/main/assets/Final_training_Result.JPG)
+
+
