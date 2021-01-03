@@ -11,9 +11,13 @@ since it has low inference time and was trained on COCO dataset that includes sp
 
 Training process included 6600 training images (84.6%) and 1200 test images (15.4%) 
 
-that resulted in a network with mAP @.5 = 0.725 on the test set.
+That resulted in a network with mAP @.5 = 0.725 on the test set.
+
+Test inference video output :  
 
 ![Output sample](https://github.com/eldadoh/Tennis-game-Analysis-object-detection-with-YOLO-family/blob/main/assets/gif.gif)
+
+Best weights results: 
 
 ![Output sample](https://github.com/eldadoh/Tennis-game-Analysis-object-detection-with-YOLO-family/blob/main/assets/Final_training_Result.JPG)
 
